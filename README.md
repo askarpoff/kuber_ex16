@@ -31,7 +31,21 @@
 
 ![image](https://github.com/askarpoff/kuber_ex16/assets/108946489/54cc68e6-e37e-47fe-b63b-c44e3ee6e3ec)
 
-Зашел на публичный ip, интернет есть
+Зашел на публичный ip, Интернет есть
 
 ![image](https://github.com/askarpoff/kuber_ex16/assets/108946489/989a09f0-5ae3-40e3-b180-6be24244832d)
+
+Выхожу, пробрасываю закрытый ключ на сервер в публичной сети
+
+![image](https://github.com/askarpoff/kuber_ex16/assets/108946489/0967a13d-aee3-406b-b7e3-133f165bfbff)
+
+Снова подключаюсь и захожу по ssh на сервер в приватной сети
+
+![image](https://github.com/askarpoff/kuber_ex16/assets/108946489/0dc91003-7408-47aa-9555-c435a58c5858)
+
+Доступ в Интернет на ВМ есть, видится в сети под адресом NAT-инстанса
+
+![image](https://github.com/askarpoff/kuber_ex16/assets/108946489/c207ac32-2766-40c8-8de8-9070577587fd)
+
+
 
