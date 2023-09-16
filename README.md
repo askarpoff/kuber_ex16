@@ -30,3 +30,8 @@
 Применил
 
 ![image](https://github.com/askarpoff/kuber_ex16/assets/108946489/54cc68e6-e37e-47fe-b63b-c44e3ee6e3ec)
+
+Зашел на публичный ip, интернет есть
+
+![image](https://github.com/askarpoff/kuber_ex16/assets/108946489/989a09f0-5ae3-40e3-b180-6be24244832d)
+
