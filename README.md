@@ -18,6 +18,7 @@
 ### Ответ:
 
 Сделал файлы
+
 [main.tf](https://github.com/askarpoff/kuber_ex16/blob/main/terraform/main.tf) - Виртуалки
 
 [network.tf](https://github.com/askarpoff/kuber_ex16/blob/main/terraform/network.tf) - Сеть
@@ -25,7 +26,6 @@
 [provider.tf](https://github.com/askarpoff/kuber_ex16/blob/main/terraform/provider.tf) - Провайдер
 
 [output.tf](https://github.com/askarpoff/kuber_ex16/blob/main/terraform/output.tf) - Вывод выданных ip
-
 
 Применил
 
